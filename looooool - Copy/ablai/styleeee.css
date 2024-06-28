@@ -1,0 +1,26 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    margin: 5px;
+}
+.a {
+    text-align: center;
+ padding: 10px;
+   
+}
+div a {
+    text-decoration: none;
+}
+.lo {
+    background-color: white;
+    height: 400px;
+    width: 600px;
+}
+main {
+    background-color: black;
+}
+footer {
+    background-color: aqua;
+padding: 8px;
+    text-align: center;
+}

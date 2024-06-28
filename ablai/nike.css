@@ -1,0 +1,27 @@
+.center {
+    text-align: center;
+  margin: 15px;  
+  font-size: 25px;
+
+  /* font-style: italic; */}
+div a {text-decoration: none;
+color: rgb(127, 136, 255);
+justify-content: space-between;
+}
+.life {
+    text-align: center;
+    font-size: 30px;
+    
+}
+.centr {
+    text-align: center;
+}
+.box {
+position: fixed;
+top: 0; left: 0;
+    background-color: white;
+    width: 100vw;
+    justify-content: space-evenly;
+    
+}
+
